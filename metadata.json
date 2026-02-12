@@ -1,0 +1,5 @@
+{
+  "name": "E-Kwitansi SPPD DPRK Lhokseumawe",
+  "description": "A web-based receipt generator for official travel expenses (SPPD) tailored for the Secretariat of DPRK Lhokseumawe, featuring automated Perwal-based calculations and professional print-ready output.",
+  "requestFramePermissions": []
+}
